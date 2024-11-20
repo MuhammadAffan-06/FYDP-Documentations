@@ -1,0 +1,51 @@
+2.1 Introduction:
+In the past few years, numerous approaches have been developed to address different issues concerning live interactive presentation. Many large organizations have launched web apps to facilitate audience interaction in the business environment and education facilities. However, these existing solutions may not be sufficient to meet desired requirements especially for students at learning institutions. Some usual disadvantages include; limited interaction with other applications, poor handling of results, and relatively lower user interfaces.
+
+These limitations pose problems to interactive presentation and this is why our initiative, MindSync, is designed to provide a solution. However, MindSync is different from other systems which offers a solution by being directly connected to Google Classroom. This erases a time-consuming effort through providing detailed analytics over the quizzes results directly to students’ Google Classroom accounts.
+
+Such programs compete with each other, but MindSync is superior to its competitors because of its more straightforward user interface. This layout makes it functional to all users, including educators and students, such that the probability of users becoming frustrated by navigating through the approach is highly eliminated. The new UI/UX design is also improved in terms of accessibility, performance and easier navigation so it should appeal to a broad range of users regardless of their IT expertise.
+
+In addition, MindSync deals with an issue of timely availability of quiz and assignment results as a concern that greets any user forming part of this online application. At the end of a session, MindSync offers real-time results, although assignment submission is simplified because students can access presentations in Google Classroom.
+
+Besides its basic use, MindSync is effective in enriching the learning process and ensuring effective cooperation between teachers and learners. This makes sure that apart from catering for present day needs in education our platform is one that will offer an ever evolving platform for teachers and learners offering education in the future hence making the said tool a revolutionary one.
+
+2.2 Related Systems:
+	2.2.1: Mentimeter:
+	Mentimeter is among the most popular tools that allow creating engaging presentations. It has great operability and a list of 	 possibilities, yet it has some inconveniences. This environment has very limited and unprofessional UI/UX and the activity of creating slides can be less convenient. Further, it can’t share the results with Google classroom automatically and teachers need to share the quiz results to the students themselves.
+
+Features:
+
+1.This function allows a person to build word-cloud slides, polls, questionnaires with multiple-choice questions within the presentation.
+2.Individual analysis of quizzes in the form of comprehensive tabular reports.
+Lacking/Issues:
+1.Lack of ability to shuttle results directly to Google Classroom.
+2.A less clear and less intuitive interface for creating as well as manipulating the structure of the slide.
+
+	2.2.2: Kahoot:
+	Kahoot is another tool that is used for creating an entertaining quiz as well as various activities. Like Mentimeter, it 		 stands out for making a compelling presentation on PowerPoint because of its fun and appealing user interface, but it has almost the same drawbacks. Kahoot does not have integration with Google Classroom, thus the results sharing process is quite inconvenient for educators. Furthermore, its GUI for front-end creation and management of quizzes can be quite clunky, which lessens its utility for a spontaneous or a big lecture
+Features:
+1.Promises a fun and interactive form of learning complemented by quizzes and other activities for the learners.
+2.Enables the creation of quizzes for which people can participate and gives some simple analysis of the same in real-time.
+Lacking/Issues:
+1.Lacks compatibility with some of the tools as Google Classroom for efficient result management.
+2.Thus, the interface for creating slides is not as polished as well, and thus it affects the work of users.
+(Attach a picture)
+
+2.3 Comparison of Proposed System with Existing Systems:
+(Create a comparison table as in the reference pictures)
+
+2.4 User Experience as a differentiator:
+Regarding the use of software tools for interactive presentation, the user experience and user interface can massively influence the interaction. Most of the existing solutions in this sphere have the issues with interface complexity or information overload that results from it. MindSync, on the other hand, has been developed with most of its focus associated with making sure that it has a perfect user interface which not only looks very good but performs as expected as well.  
+
+MindSync’s User Interface is designed to be simple and sleek with clear logical navigation that is easily understandable. As soon as the users sign in, they are welcomed with an interface which is amazingly uncomplicated and leaves no room for incorporation of features, which are not very essential. All objects: starting from the tools used for the presentation creation and including the analytics dashboard have been designed to minimize the cognitive load and maximize the productivity of the target audience.  
+Moreover, new and deeper UI/UX design reflects not only the aesthetic aspect of the platform. Because of these features like; layout designed for the small screens of mobile devices and tablets, it is suitable for all audiences. Regardless it is a teacher who supervises several classes, or a learner who takes a quiz, they will appreciate how simple and entertaining the process looks like when using MindSync.
+(Attach the UI pictures of MindSync desktop and mobile view both)
+
+2.5 Future Advancements in MindSync using AI:
+Artificial Intelligence (AI) is doubtless considered at the helm of developing the future of technology by coming up with methods to improve the experience of their users as well as efficiencies of the processes. MindSync is developed to be able to integrate with the AI advances due to its modular and expandable architecture. The use of AI will make it possible to not only present analytics in a format of tables and graphs but make the insights dynamic. For example, instead of just showing a student’s performance in quizzes, an AI analytical report can show teachers trends of performance to easily define where students are likely to have issues. This capability will enhance the teachers’ ability to change the course delivery methods and foster better student-centered learning environment.  
+
+Also, AI can improve the process of developing presentations to a great extent when it comes to making presentation interactions. Incorporated suggestions for the educators and presenters could include intelligent tips while designing the slides e.g. the types of interactivity that would be more suitable in a given context (for instance, polls or quizzes sliding or word cloud). AI could also include helping to design layouts of presentations to be best understood and retained by the viewers. All these enhancements will not only shave down some time span for the users but as well see to it that the presentations given will create the desired effect on the intended audience. In view of availing hi-end capabilities based on AI development.
+
+
+
+
